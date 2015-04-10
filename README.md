@@ -7,3 +7,5 @@
 	- sudo npm install -g cordova (Node.js nécessaire)
 - Mise en place du repo Git (https://github.com/ZacJoestar/iesa-2015-a3-mobile-1)
 
+#Commandes utiles
+- cordova plugins ls (voir tous les plugins installés)

@@ -9,3 +9,6 @@
 
 #Commandes utiles
 - cordova plugins ls (voir tous les plugins installés)
+
+## Raccourcis
+- Pomme + , (préférences pour appli Mac OS)

@@ -12,3 +12,4 @@
 
 ## Raccourcis
 - Pomme + , (préférences pour appli Mac OS)
+- Cmd + Shift+ K (cache clean Xcode)
